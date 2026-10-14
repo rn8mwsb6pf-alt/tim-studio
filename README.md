@@ -9,7 +9,7 @@
 
 **Claude Code на любом компьютере**
 ```bash
-npx skills add rn8mwsb6pf-alt/tim-studio -g
+npx skills add rn8mwsb6pf-alt/tim-studio --skill tim-studio -g
 ```
 или вручную:
 ```bash
